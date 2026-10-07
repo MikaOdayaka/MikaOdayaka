@@ -1,4 +1,4 @@
-"""Campo minado que se joga sozinho: cada execução faz uma jogada e redesenha o SVG."""
+﻿"""Campo minado que se joga sozinho: cada execuÃ§Ã£o faz uma jogada e redesenha o SVG."""
 import json
 import random
 import re
@@ -86,7 +86,7 @@ def reveal(state, r, c):
 
 
 def deduce(state):
-    """Regras simples: número já cumprido => resto é seguro; faltam = desconhecidos => todos minas."""
+    """Regras simples: nÃºmero jÃ¡ cumprido => resto Ã© seguro; faltam = desconhecidos => todos minas."""
     new_flags, safe = set(), set()
     for r in range(H):
         for c in range(W):
@@ -183,7 +183,7 @@ def render(state):
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" font-family="Segoe UI, Arial, sans-serif">',
         f'<rect width="{width}" height="{height}" rx="14" fill="#0d1117" stroke="#30363d"/>',
         f'<text x="{PAD}" y="{PAD + 22}" font-size="17" font-weight="700" fill="#f08228">Minesweeper</text>',
-        f'<text x="{width - PAD}" y="{PAD + 22}" font-size="13" text-anchor="end" fill="#8b949e">wins {state["wins"]}  ·  losses {state["losses"]}</text>',
+        f'<text x="{width - PAD}" y="{PAD + 22}" font-size="13" text-anchor="end" fill="#8b949e">wins {state["wins"]}  Â·  losses {state["losses"]}</text>',
     ]
     for r in range(H):
         for c in range(W):
@@ -208,7 +208,7 @@ def render(state):
                     out.append(f'<text x="{cx}" y="{cy + 6}" font-size="17" font-weight="700" text-anchor="middle" fill="{NUMBER_COLORS[n]}">{n}</text>')
     status = {"playing": "playing...", "won": "won! a new game starts soon", "lost": "boom! a new game starts soon"}[state["status"]]
     out.append(f'<text x="{PAD}" y="{height - PAD - 6}" font-size="13" fill="#8b949e">{status}</text>')
-    out.append(f'<text x="{width - PAD}" y="{height - PAD - 6}" font-size="12" text-anchor="end" fill="#6e7681">plays itself every hour</text>')
+    out.append(f'<text x="{width - PAD}" y="{height - PAD - 6}" font-size="12" text-anchor="end" fill="#6e7681">plays itself every 5 minutes</text>')
     out.append("</svg>")
     SVG_FILE.write_text("\n".join(out), encoding="utf-8")
 

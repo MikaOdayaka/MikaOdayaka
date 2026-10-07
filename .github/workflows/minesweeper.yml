@@ -1,8 +1,8 @@
-name: minesweeper
+﻿name: minesweeper
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:

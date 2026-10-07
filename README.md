@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Mika%20Odayaka%20%F0%9F%A6%8A&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=3D%20Animator%20%E2%80%A2%20Pixel%20Artist%20%E2%80%A2%20Developer&descAlignY=60&descSize=18" alt="banner" />
 
@@ -91,7 +91,7 @@ Sou artista também: faço desenhos e animação, a maioria em **pixel art**. Me
 
 <img src="minesweeper.svg?v=2" alt="Minesweeper" />
 
-<sub>Uma jogada por hora, sozinho • One move per hour, on its own</sub>
+<sub>Uma jogada a cada 5 minutos, sozinho • One move every 5 minutes, on its own</sub>
 
 <img src="https://streak-stats.demolab.com?user=MikaOdayaka&theme=dark&hide_border=true&background=0D111700&ring=F08228&fire=F08228&currStreakLabel=F08228" alt="streak" />
 
