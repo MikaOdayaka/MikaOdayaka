@@ -54,6 +54,19 @@ Sou artista também: faço desenhos e animação, a maioria em **pixel art**. Me
 ![Minecraft Mods](https://img.shields.io/badge/Minecraft-Mods%20%26%20APIs-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-Indie%20Games-E2231A?style=for-the-badge&logo=roblox&logoColor=white)
 
+### 🎮 Roblox Games
+
+| Game | Role | Visits |
+|---|---|---|
+| [**Vr Test v2**](https://www.roblox.com/games/74067872693080/) | 👑 Owner / Dona | 19 |
+| [**SoulShatters v2**](https://www.roblox.com/games/109378285407321/) | 🤝 Co-owner / Co-dona | 4.3M |
+| [**Undertale: Broken Reality**](https://www.roblox.com/games/75472778119985) | 🤝 Co-owner / Co-dona | 188K |
+| [**Undertale Test Place Reborn [Anniversary]**](https://www.roblox.com/games/7491927311/) | 🛠️ Contributor / Contribuidora | 184M |
+| [**Undertale Timeline Corruption: TD**](https://www.roblox.com/games/117452115137842) | 🛠️ Contributor / Contribuidora | 31.8M |
+| [**Absolute Resonance**](https://www.roblox.com/games/17693554367/) | 📦 Discontinued / Descontinuado | 249K |
+
+<sub>Visits as of Oct 2026 • Visitas em out/2026</sub>
+
 ### 🌱 Learning
 
 ![3D Modeling](https://img.shields.io/badge/3D%20Modeling-own%20models-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
@@ -73,6 +86,12 @@ Sou artista também: faço desenhos e animação, a maioria em **pixel art**. Me
 ---
 
 <div align="center">
+
+### 💣 Minesweeper that plays itself
+
+<img src="minesweeper.svg?v=1" alt="Minesweeper" />
+
+<sub>Uma jogada por hora, sozinho • One move per hour, on its own</sub>
 
 <img src="https://streak-stats.demolab.com?user=MikaOdayaka&theme=dark&hide_border=true&background=0D111700&ring=F08228&fire=F08228&currStreakLabel=F08228" alt="streak" />
 
