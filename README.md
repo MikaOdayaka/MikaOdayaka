@@ -89,7 +89,7 @@ Sou artista também: faço desenhos e animação, a maioria em **pixel art**. Me
 
 ### 💣 Minesweeper that plays itself
 
-<img src="minesweeper.svg?v=1" alt="Minesweeper" />
+<img src="minesweeper.svg?v=2" alt="Minesweeper" />
 
 <sub>Uma jogada por hora, sozinho • One move per hour, on its own</sub>
 
