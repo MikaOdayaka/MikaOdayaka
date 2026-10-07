@@ -79,6 +79,10 @@ Sou artista também: faço desenhos e animação, a maioria em **pixel art**. Me
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![discord.py](https://img.shields.io/badge/discord.py-2.x-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
+🇺🇸 I'm working on a bot called **KitsuneLady** that talks with people. She's powered by a real fox (just kidding 🦊).
+
+🇧🇷 Estou trabalhando em um bot chamado **KitsuneLady**, que conversa com as pessoas. Ela roda por uma raposa de verdade (na brincadeira 🦊).
+
 <sub>Projeto privado • Private project</sub>
 
 </div>
