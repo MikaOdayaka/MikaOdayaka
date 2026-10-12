@@ -107,7 +107,8 @@
 <rect x="287" y="181" width="28" height="28" rx="4" fill="#161b22"/>
 <rect x="317" y="181" width="28" height="28" rx="4" fill="#161b22"/>
 <rect x="347" y="181" width="28" height="28" rx="4" fill="#161b22"/>
-<rect x="17" y="211" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="17" y="211" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="31.0" y="231.0" font-size="17" font-weight="700" text-anchor="middle" fill="#f85149">3</text>
 <rect x="47" y="211" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <line x1="58.0" y1="217.0" x2="58.0" y2="233.0" stroke="#c9d1d9" stroke-width="2"/>
 <polygon points="58.0,217.0 68.0,221.0 58.0,225.0" fill="#f08228"/>
