@@ -2,8 +2,9 @@
 <rect width="392" height="380" rx="14" fill="#0d1117" stroke="#30363d"/>
 <text x="16" y="38" font-size="17" font-weight="700" fill="#f08228">Minesweeper</text>
 <text x="376" y="38" font-size="13" text-anchor="end" fill="#8b949e">wins 3  Â·  losses 0</text>
-<rect x="17" y="61" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="47" y="61" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="17" y="61" width="28" height="28" rx="4" fill="#161b22"/>
+<rect x="47" y="61" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="61.0" y="81.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="77" y="61" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="107" y="61" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="121.0" y="81.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
@@ -16,12 +17,15 @@
 <polygon points="208.0,67.0 218.0,71.0 208.0,75.0" fill="#f08228"/>
 <rect x="227" y="61" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="241.0" y="81.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
-<rect x="257" y="61" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="257" y="61" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="271.0" y="81.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
 <rect x="287" y="61" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="317" y="61" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="347" y="61" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="17" y="91" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="47" y="91" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="317" y="61" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="331.0" y="81.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
+<rect x="347" y="61" width="28" height="28" rx="4" fill="#161b22"/>
+<rect x="17" y="91" width="28" height="28" rx="4" fill="#161b22"/>
+<rect x="47" y="91" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="61.0" y="111.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="77" y="91" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="107" y="91" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <line x1="118.0" y1="97.0" x2="118.0" y2="113.0" stroke="#c9d1d9" stroke-width="2"/>
@@ -38,8 +42,11 @@
 <rect x="257" y="91" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="271.0" y="111.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
 <rect x="287" y="91" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="317" y="91" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="347" y="91" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<line x1="298.0" y1="97.0" x2="298.0" y2="113.0" stroke="#c9d1d9" stroke-width="2"/>
+<polygon points="298.0,97.0 308.0,101.0 298.0,105.0" fill="#f08228"/>
+<rect x="317" y="91" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="331.0" y="111.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
+<rect x="347" y="91" width="28" height="28" rx="4" fill="#161b22"/>
 <rect x="17" y="121" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="31.0" y="141.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="47" y="121" width="28" height="28" rx="4" fill="#161b22"/>
@@ -60,8 +67,9 @@
 <text x="271.0" y="141.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
 <rect x="287" y="121" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="301.0" y="141.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
-<rect x="317" y="121" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="347" y="121" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="317" y="121" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="331.0" y="141.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
+<rect x="347" y="121" width="28" height="28" rx="4" fill="#161b22"/>
 <rect x="17" y="151" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <line x1="28.0" y1="157.0" x2="28.0" y2="173.0" stroke="#c9d1d9" stroke-width="2"/>
 <polygon points="28.0,157.0 38.0,161.0 28.0,165.0" fill="#f08228"/>
@@ -82,8 +90,8 @@
 <text x="271.0" y="171.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="287" y="151" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="301.0" y="171.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
-<rect x="317" y="151" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="347" y="151" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="317" y="151" width="28" height="28" rx="4" fill="#161b22"/>
+<rect x="347" y="151" width="28" height="28" rx="4" fill="#161b22"/>
 <rect x="17" y="181" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="31.0" y="201.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="47" y="181" width="28" height="28" rx="4" fill="#161b22"/>
@@ -102,8 +110,8 @@
 <polygon points="268.0,187.0 278.0,191.0 268.0,195.0" fill="#f08228"/>
 <rect x="287" y="181" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="301.0" y="201.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
-<rect x="317" y="181" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="347" y="181" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="317" y="181" width="28" height="28" rx="4" fill="#161b22"/>
+<rect x="347" y="181" width="28" height="28" rx="4" fill="#161b22"/>
 <rect x="17" y="211" width="28" height="28" rx="4" fill="#161b22"/>
 <rect x="47" y="211" width="28" height="28" rx="4" fill="#161b22"/>
 <rect x="77" y="211" width="28" height="28" rx="4" fill="#161b22"/>
@@ -116,9 +124,10 @@
 <rect x="257" y="211" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <line x1="268.0" y1="217.0" x2="268.0" y2="233.0" stroke="#c9d1d9" stroke-width="2"/>
 <polygon points="268.0,217.0 278.0,221.0 268.0,225.0" fill="#f08228"/>
-<rect x="287" y="211" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="317" y="211" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="347" y="211" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="287" y="211" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="301.0" y="231.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
+<rect x="317" y="211" width="28" height="28" rx="4" fill="#161b22"/>
+<rect x="347" y="211" width="28" height="28" rx="4" fill="#161b22"/>
 <rect x="17" y="241" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="31.0" y="261.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="47" y="241" width="28" height="28" rx="4" fill="#161b22"/>
@@ -132,9 +141,12 @@
 <text x="241.0" y="261.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
 <rect x="257" y="241" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="271.0" y="261.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
-<rect x="287" y="241" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="317" y="241" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="347" y="241" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="287" y="241" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="301.0" y="261.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
+<rect x="317" y="241" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="331.0" y="261.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
+<rect x="347" y="241" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="361.0" y="261.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="17" y="271" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <line x1="28.0" y1="277.0" x2="28.0" y2="293.0" stroke="#c9d1d9" stroke-width="2"/>
 <polygon points="28.0,277.0 38.0,281.0 28.0,285.0" fill="#f08228"/>
@@ -148,6 +160,8 @@
 <rect x="227" y="271" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="241.0" y="291.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="257" y="271" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<line x1="268.0" y1="277.0" x2="268.0" y2="293.0" stroke="#c9d1d9" stroke-width="2"/>
+<polygon points="268.0,277.0 278.0,281.0 268.0,285.0" fill="#f08228"/>
 <rect x="287" y="271" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="317" y="271" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="347" y="271" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
