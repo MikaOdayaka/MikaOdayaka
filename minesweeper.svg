@@ -44,6 +44,8 @@
 <rect x="167" y="121" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="181.0" y="141.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="197" y="121" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<line x1="208.0" y1="127.0" x2="208.0" y2="143.0" stroke="#c9d1d9" stroke-width="2"/>
+<polygon points="208.0,127.0 218.0,131.0 208.0,135.0" fill="#f08228"/>
 <rect x="227" y="121" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="257" y="121" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="287" y="121" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
@@ -95,8 +97,10 @@
 <text x="271.0" y="231.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="287" y="211" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="301.0" y="231.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
-<rect x="317" y="211" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="347" y="211" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="317" y="211" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="331.0" y="231.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
+<rect x="347" y="211" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="361.0" y="231.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="17" y="241" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="31.0" y="261.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="47" y="241" width="28" height="28" rx="4" fill="#161b22"/>
@@ -116,10 +120,12 @@
 <polygon points="268.0,247.0 278.0,251.0 268.0,255.0" fill="#f08228"/>
 <rect x="287" y="241" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="301.0" y="261.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
-<rect x="317" y="241" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="347" y="241" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="317" y="241" width="28" height="28" rx="4" fill="#161b22"/>
+<rect x="347" y="241" width="28" height="28" rx="4" fill="#161b22"/>
 <rect x="17" y="271" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="47" y="271" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<line x1="58.0" y1="277.0" x2="58.0" y2="293.0" stroke="#c9d1d9" stroke-width="2"/>
+<polygon points="58.0,277.0 68.0,281.0 58.0,285.0" fill="#f08228"/>
 <rect x="77" y="271" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="91.0" y="291.0" font-size="17" font-weight="700" text-anchor="middle" fill="#f85149">3</text>
 <rect x="107" y="271" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
@@ -136,9 +142,10 @@
 <rect x="257" y="271" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <line x1="268.0" y1="277.0" x2="268.0" y2="293.0" stroke="#c9d1d9" stroke-width="2"/>
 <polygon points="268.0,277.0 278.0,281.0 268.0,285.0" fill="#f08228"/>
-<rect x="287" y="271" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="317" y="271" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="347" y="271" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="287" y="271" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="301.0" y="291.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
+<rect x="317" y="271" width="28" height="28" rx="4" fill="#161b22"/>
+<rect x="347" y="271" width="28" height="28" rx="4" fill="#161b22"/>
 <rect x="17" y="301" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="47" y="301" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="77" y="301" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
@@ -148,9 +155,10 @@
 <rect x="197" y="301" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="227" y="301" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="257" y="301" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="287" y="301" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="317" y="301" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="347" y="301" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="287" y="301" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="301.0" y="321.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
+<rect x="317" y="301" width="28" height="28" rx="4" fill="#161b22"/>
+<rect x="347" y="301" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="16" y="358" font-size="13" fill="#8b949e">playing...</text>
 <text x="376" y="358" font-size="12" text-anchor="end" fill="#6e7681">plays itself every 5 minutes</text>
 </svg>
