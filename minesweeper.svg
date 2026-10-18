@@ -14,7 +14,8 @@
 <text x="241.0" y="81.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
 <rect x="257" y="61" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="271.0" y="81.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
-<rect x="287" y="61" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="287" y="61" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="301.0" y="81.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
 <rect x="317" y="61" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="347" y="61" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="17" y="91" width="28" height="28" rx="4" fill="#161b22"/>
