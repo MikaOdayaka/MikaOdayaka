@@ -31,7 +31,8 @@
 <rect x="77" y="121" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="91.0" y="141.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
 <rect x="107" y="121" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="137" y="121" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="137" y="121" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="151.0" y="141.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="167" y="121" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="181.0" y="141.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
 <rect x="197" y="121" width="28" height="28" rx="4" fill="#161b22"/>
@@ -47,9 +48,13 @@
 <text x="361.0" y="141.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="17" y="151" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="47" y="151" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="77" y="151" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="107" y="151" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="77" y="151" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="91.0" y="171.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
+<rect x="107" y="151" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="121.0" y="171.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="137" y="151" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<line x1="148.0" y1="157.0" x2="148.0" y2="173.0" stroke="#c9d1d9" stroke-width="2"/>
+<polygon points="148.0,157.0 158.0,161.0 148.0,165.0" fill="#f08228"/>
 <rect x="167" y="151" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="181.0" y="171.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="197" y="151" width="28" height="28" rx="4" fill="#161b22"/>
