@@ -12,6 +12,8 @@
 <rect x="197" y="61" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="211.0" y="81.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="227" y="61" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<line x1="238.0" y1="67.0" x2="238.0" y2="83.0" stroke="#c9d1d9" stroke-width="2"/>
+<polygon points="238.0,67.0 248.0,71.0 238.0,75.0" fill="#f08228"/>
 <rect x="257" y="61" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="271.0" y="81.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
 <rect x="287" y="61" width="28" height="28" rx="4" fill="#161b22"/>
@@ -60,8 +62,11 @@
 <rect x="347" y="121" width="28" height="28" rx="4" fill="#161b22"/>
 <rect x="17" y="151" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="47" y="151" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="77" y="151" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="77" y="151" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="91.0" y="171.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="107" y="151" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<line x1="118.0" y1="157.0" x2="118.0" y2="173.0" stroke="#c9d1d9" stroke-width="2"/>
+<polygon points="118.0,157.0 128.0,161.0 118.0,165.0" fill="#f08228"/>
 <rect x="137" y="151" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <line x1="148.0" y1="157.0" x2="148.0" y2="173.0" stroke="#c9d1d9" stroke-width="2"/>
 <polygon points="148.0,157.0 158.0,161.0 148.0,165.0" fill="#f08228"/>
@@ -81,7 +86,8 @@
 <rect x="17" y="181" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="47" y="181" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="77" y="181" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="107" y="181" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="107" y="181" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="121.0" y="201.0" font-size="17" font-weight="700" text-anchor="middle" fill="#bc8cff">4</text>
 <rect x="137" y="181" width="28" height="28" rx="4" fill="#161b22"/>
 <text x="151.0" y="201.0" font-size="17" font-weight="700" text-anchor="middle" fill="#bc8cff">4</text>
 <rect x="167" y="181" width="28" height="28" rx="4" fill="#161b22"/>
