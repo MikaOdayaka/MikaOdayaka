@@ -5,7 +5,8 @@
 <rect x="17" y="61" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="47" y="61" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="77" y="61" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="107" y="61" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="107" y="61" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="121.0" y="81.0" font-size="17" font-weight="700" text-anchor="middle" fill="#3fb950">2</text>
 <rect x="137" y="61" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <line x1="148.0" y1="67.0" x2="148.0" y2="83.0" stroke="#c9d1d9" stroke-width="2"/>
 <polygon points="148.0,67.0 158.0,71.0 148.0,75.0" fill="#f08228"/>
@@ -42,7 +43,8 @@
 <text x="361.0" y="111.0" font-size="17" font-weight="700" text-anchor="middle" fill="#58a6ff">1</text>
 <rect x="17" y="121" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <rect x="47" y="121" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
-<rect x="77" y="121" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
+<rect x="77" y="121" width="28" height="28" rx="4" fill="#161b22"/>
+<text x="91.0" y="141.0" font-size="17" font-weight="700" text-anchor="middle" fill="#f85149">3</text>
 <rect x="107" y="121" width="28" height="28" rx="4" fill="#30363d" stroke="#484f58"/>
 <line x1="118.0" y1="127.0" x2="118.0" y2="143.0" stroke="#c9d1d9" stroke-width="2"/>
 <polygon points="118.0,127.0 128.0,131.0 118.0,135.0" fill="#f08228"/>
